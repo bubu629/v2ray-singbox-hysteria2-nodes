@@ -14,7 +14,7 @@
 > - 🔄 **循环重置**：周期到期自动重置可用流量，保障持续连通[cite: 1]
 > 
 > 🔗 **获取独立凭证**：[点击前往官网注册领取](https://haovpn.xyz)  
-> 📥 **直链订阅接口**：`https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> 📥 **直链订阅接口**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---
 
@@ -60,7 +60,7 @@ High-speed, stable, and uncapped proxy nodes tailored for developers, researcher
 > 
 > 🔗 **Official Portal**: [Register at haovpn.xyz](https://haovpn.xyz) *(Use Invite Code: `cbT7Rfxg`)*[cite: 3]  
 > 📥 **Direct Test Subscription**:  
-> `https://www.haovpn.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
+> `https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 
 ---
 
