@@ -4,7 +4,7 @@
 
 收录并聚合兼容最新抗阻断协议（Hysteria 2 / TUIC / VLESS Reality / Sing-box / V2Ray）的高速节点配置，专为高延迟抗封锁场景优化。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 > ### ⚡ 极速专线节点：200G 免费高速配额
 > 
@@ -16,7 +16,7 @@
 > 🔗 **获取独立凭证**：[点击前往官网注册领取](https://haovpn.xyz)  
 > 📥 **直链订阅接口**：`https://node.lovehk.xyz/s/01046da34d021c1d30c723be5092070b`[cite: 1]
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📋 协议兼容说明
 
@@ -26,7 +26,7 @@
 | **Hysteria 2** | NekoBox, Sing-box | 晚高峰抗高丢包，速率拉满 |
 | **VMess / Trojan** | Shadowrocket, Clash | 老牌主流，兼容性广[cite: 1] |
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
----
+---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 🔗 推荐兄弟项目矩阵
 - [Clash Verge & Meta 客户端配置规则](../free-clash-meta-verge-rules)
