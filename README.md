@@ -1,11 +1,13 @@
 # v2ray-singbox-hysteria2-nodes
 针对 Sing-box、Hysteria2、V2Ray、Xray 等现代高抗封锁协议搜索。
 # 🚀 V2Ray & Sing-box & Hysteria2 Daily Nodes | 现代协议高速节点池
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 收录并聚合兼容最新抗阻断协议（Hysteria 2 / TUIC / VLESS Reality / Sing-box / V2Ray）的高速节点配置，专为高延迟抗封锁场景优化。
 如果订阅链接上节点没有刷新或者无法使用，请点击 更新当前组订阅 获取最新节点。
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
-
+* Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
+ * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > ### ⚡ 极速专线节点：200G 免费高速配额
 > 
 > 告别高峰期断流与丢包，提供多协议兼容的高质量高速专线[cite: 1]：
