@@ -9,7 +9,8 @@
 * Shadowsocks，* VMess，* Trojan， * Hysteria，* VLess
  * TUIC，* SOCKS，* Naive，* HTTP，* Mieru，* AnyTLS
 > ### ⚡ 极速专线节点：200G 免费高速配额
-> 
+> > 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 > 告别高峰期断流与丢包，提供多协议兼容的高质量高速专线[cite: 1]：
 > - 🌐 **协议支持**：支持 Sing-box、V2Ray、Xray、Hysteria2 全协议接入
 > - 📦 **注册即用**：免费注册即送 **200 GB** 高速流量包[cite: 1]
@@ -21,7 +22,8 @@
 ---官方telegram群组。欢迎交流：https://t.me/AIPTVHAOVPN
 
 ## 📋 协议兼容说明
-
+> 🚀 **免翻墙在线一键配置工具站**：[点击打开 Web 客户端](https://haovpnxyz-portal-h2cqf0uzv-bancheungs-projects.vercel.app)  
+> 电脑/手机浏览器免安装打开即用，支持一键唤醒 Clash / 小火箭自动导入，免费领 200G 独立节点！
 | 协议类型 | 推荐客户端 | 适用网络环境 |
 | :--- | :--- | :--- |
 | **VLESS Reality** | v2rayN, sing-box | 稳定性强，全网通用 |
